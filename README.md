@@ -16,6 +16,7 @@
 //A stays for Added (staged and ready for commit)
 //M stays for Modified
 //To commit the source files: git commit -m "comment!"
-//To commit is mandathory to sei who you are using:
+//You can commit also directly from M status: git commit -a -m "comment!"
+//To commit is mandathory to say who you are using:
 //git config --global user.email "you@example.com"
 //git config --global user.name "Your Name"
