@@ -20,3 +20,8 @@
 //To commit is mandathory to say who you are using:
 //git config --global user.email "you@example.com"
 //git config --global user.name "Your Name"
+//I've created a github account and new repository called git-code-playground
+//I've linked github repository to this (local) git repository:
+//git remote add origin https://github.com/antox73/git-code-playground.git
+//git branch -M main
+//git push -u origin main
