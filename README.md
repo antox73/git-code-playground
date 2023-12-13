@@ -6,6 +6,7 @@
 //GitHum is a place in the cloud where you can store your source code so you can reach it everywhere and everytime you need.
 
 //GitHub Dave Gray repository example: https://github.com/gitdagray/html_course.git
+//////IF you want use my first repository instead: https://github.com/antox73/git-code-playground.git
 //command to add git repository from github: git clone https://github.com/gitdagray/html_course.git
 //command to remove git repository: rm -rf .git
 //command to init git and create file .git: git init
